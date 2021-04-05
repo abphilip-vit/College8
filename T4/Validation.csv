@@ -1,0 +1,65 @@
+,company,Age ,Gender,Qualification,no of experience in years,Area of work,salary
+0,ABBB,22.0,F,B.E,1.0,programming,54824.880146369505
+1,ABBB,28.000000000000004,M,B.E,5.0,predictive analysis,208400.79342999725
+2,ABBB,30.0,F,M.E,4.0,cloud server management,145345.3752358895
+3,ABBB,35.0,M,M.E,9.0,predictive analysis,352574.9823623814
+4,ABBB,29.0,F,M.E,5.0,cloud server management,214053.4807469777
+5,ABBB,27.0,F,B.E,5.0,predictive analysis,228060.72868746833
+6,ABBB,26.0,M,B.E,5.0,cloud server management,240177.72800574618
+7,ABBB,24.0,F,M.E,1.0,cloud server management,48344.83803999085
+8,Bashh,22.0,F,B.E,1.0,programming,48773.699518955655
+9,Bashh,28.000000000000004,M,B.E,5.0,predictive analysis,202349.6128025834
+10,Bashh,30.0,F,M.E,4.0,cloud server management,139294.19460847566
+11,Bashh,35.0,M,M.E,9.0,predictive analysis,346523.8017349676
+12,Bashh,29.0,F,M.E,5.0,cloud server management,208002.30011956385
+13,Bashh,27.0,F,B.E,5.0,predictive analysis,222009.54806005448
+14,Bashh,26.0,M,B.E,5.0,cloud server management,234126.54737833233
+15,Bashh,24.0,F,M.E,1.0,cloud server management,42293.657412577
+16,Link,22.0,F,B.E,1.0,programming,42722.518891541804
+17,Link,28.000000000000004,M,B.E,5.0,predictive analysis,196298.43217516958
+18,Link,30.0,F,M.E,4.0,cloud server management,133243.0139810618
+19,Link,35.0,M,M.E,9.0,predictive analysis,340472.6211075537
+20,Link,29.0,F,M.E,5.0,cloud server management,201951.11949215
+21,Link,27.0,F,B.E,5.0,predictive analysis,215958.36743264063
+22,Link,26.0,M,B.E,5.0,cloud server management,228075.36675091847
+23,Link,24.0,F,M.E,1.0,cloud server management,36242.47678516314
+24,Oxon,22.0,F,B.E,1.0,programming,36671.33826412795
+25,Oxon,28.000000000000004,M,B.E,5.0,predictive analysis,190247.2515477557
+26,Oxon,30.0,F,M.E,4.0,cloud server management,127191.83335364795
+27,Oxon,35.0,M,M.E,9.0,predictive analysis,334421.4404801399
+28,Oxon,29.0,F,M.E,5.0,cloud server management,195899.93886473612
+29,Oxon,27.0,F,B.E,5.0,predictive analysis,209907.18680522678
+30,Oxon,26.0,M,B.E,5.0,cloud server management,222024.1861235046
+31,Oxon,24.0,F,M.E,1.0,cloud server management,30191.29615774929
+32,TSC,22.0,F,B.E,1.0,programming,30620.157636714102
+33,TSC,28.000000000000004,M,B.E,5.0,predictive analysis,184196.07092034185
+34,TSC,30.0,F,M.E,4.0,cloud server management,121140.6527262341
+35,TSC,35.0,M,M.E,9.0,predictive analysis,328370.259852726
+36,TSC,29.0,F,M.E,5.0,cloud server management,189848.75823732227
+37,TSC,27.0,F,B.E,5.0,predictive analysis,203856.00617781293
+38,TSC,26.0,M,B.E,5.0,cloud server management,215973.00549609074
+39,TSC,24.0,F,M.E,1.0,cloud server management,24140.11553033544
+40,neuromorphic,22.0,F,B.E,1.0,programming,24568.97700930025
+41,neuromorphic,28.000000000000004,M,B.E,5.0,predictive analysis,178144.890292928
+42,neuromorphic,30.0,F,M.E,4.0,cloud server management,115089.47209882025
+43,neuromorphic,35.0,M,M.E,9.0,predictive analysis,322319.0792253122
+44,neuromorphic,29.0,F,M.E,5.0,cloud server management,183797.57760990842
+45,neuromorphic,27.0,F,B.E,5.0,predictive analysis,197804.82555039908
+46,neuromorphic,26.0,M,B.E,5.0,cloud server management,209921.8248686769
+47,neuromorphic,24.0,F,M.E,1.0,cloud server management,18088.93490292159
+48,palm,22.0,F,B.E,1.0,programming,18517.7963818864
+49,palm,28.000000000000004,M,B.E,5.0,predictive analysis,172093.70966551415
+50,palm,30.0,F,M.E,4.0,cloud server management,109038.2914714064
+51,palm,35.0,M,M.E,9.0,predictive analysis,316267.8985978983
+52,palm,29.0,F,M.E,5.0,cloud server management,177746.39698249457
+53,palm,27.0,F,B.E,5.0,predictive analysis,191753.64492298523
+54,palm,26.0,M,B.E,5.0,cloud server management,203870.64424126304
+55,palm,24.0,F,M.E,1.0,cloud server management,12037.754275507737
+56,penguin ,22.0,F,B.E,1.0,programming,12466.61575447255
+57,penguin ,28.000000000000004,M,B.E,5.0,predictive analysis,166042.5290381003
+58,penguin ,30.0,F,M.E,4.0,cloud server management,102987.11084399253
+59,penguin ,35.0,M,M.E,9.0,predictive analysis,310216.7179704845
+60,penguin ,29.0,F,M.E,5.0,cloud server management,171695.21635508072
+61,penguin ,27.0,F,B.E,5.0,predictive analysis,185702.46429557138
+62,penguin ,26.0,M,B.E,5.0,cloud server management,197819.4636138492
+63,penguin ,24.0,F,M.E,1.0,cloud server management,5986.573648093894
