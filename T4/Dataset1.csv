@@ -1,0 +1,53 @@
+S.No,company,Age ,Gender,Qualification,no of experience in years,Area of work,salary package per month
+1,ABBB,21,M,B.E,0,programming ,30000
+2,ABBB,24,F,M.E,1,predective analysis,50000
+3,ABBB,30,M,M.E,5,cloud server management,120000
+4,ABBB,23,M,B.E,2,programming ,42000
+5,ABBB,21,F,B.E,0,predective analysis,35000
+6,Oxon,27,M,B.E,4,cloud server management,100000
+7,Oxon,29,M,B.E,5,predective analysis,110000
+8,Oxon,30,M,B.E,7,programming ,85000
+9,Oxon,31,F,B.E,9,predective analysis,200000
+10,Oxon,30,F,B.E,8,programming ,95000
+11,Bashh,24,M,M.E,1,cloud server management,40000
+12,Bashh,26,M,M.E,3,cloud server management,65000
+13,Bashh,34,F,M.E,10,predective analysis,210000
+14,Bashh,31,F,M.E,7,predective analysis,160000
+15,Bashh,35,F,M.E,11,predective analysis,225000
+16,palm,36,F,B.E,13,programming ,160000
+17,palm,38,F,B.E,15,programming ,180000
+18,palm,40,F,B.E,18,predective analysis,320000
+19,palm,41,F,B.E,20,predective analysis,350000
+20,palm,43,F,B.E,21,cloud server management,500000
+21,TSC,21,M,B.E,0,programming ,25000
+22,TSC,22,F,B.E,0,programming ,26000
+23,TSC,22,F,B.E,1,predective analysis,39000
+24,TSC,22,F,B.E,0,predective analysis,30000
+25,TSC,22,F,B.E,1,cloud server management,32000
+26,Link,24,F,M.E,1,predective analysis,26000
+27,Link,26,F,M.E,2,cloud server management,30000
+28,Link,25,M,M.E,1,predective analysis,26000
+29,Link,26,M,M.E,3,cloud server management,50000
+30,Link,27,M,M.E,2,programming ,34000
+31,neuromorphic,21,M,B.E,0,predective analysis,22000
+32,neuromorphic,22,M,B.E,1,predective analysis,25000
+33,neuromorphic,22,M,B.E,0,predective analysis,22000
+34,neuromorphic,21,F,B.E,0,predective analysis,22000
+35,neuromorphic,22,F,B.E,1,predective analysis,25000
+36,penguin ,21,F,B.E,0,programming ,20000
+37,penguin ,22,F,B.E,0,predective analysis,21000
+38,penguin ,23,F,B.E,1,programming ,20000
+39,penguin ,22,F,B.E,0,cloud server management,21000
+40,penguin ,22,F,B.E,0,programming ,20000
+41,penguin ,24,F,M.E,0,predective analysis,21000
+42,penguin ,26,M,M.E,1,programming ,23000
+43,penguin ,27,F,M.E,2,programming ,28000
+44,penguin ,30,F,M.E,5,Predective analysis,55000
+45,penguin ,32,M,M.E,7,cloud server management,75000
+46,penguin ,25,M,M.E,1,programming ,24000
+47,penguin ,28,M,M.E,2,predective analysis,32000
+48,penguin ,40,F,B.E,16,cloud server management,190000
+49,penguin ,38,M,B.E,15,cloud server management,140000
+50,penguin ,33,M,M.E,9,predective analysis,98000
+51,penguin ,36,F,M.E,12,cloud server management,110000
+52,penguin ,37,F,B.E,15,cloud server management,155000
