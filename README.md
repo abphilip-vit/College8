@@ -1,1 +1,1 @@
-# College - ECE3502: IDA
+# College - ECE3502: Data Analysis
